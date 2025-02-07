@@ -1,7 +1,7 @@
 We will conduct a financial analysis of the companies that are partners or sponsors of the F1 teams here, using AI as well.
 
 1. [Ferrari](https://www.ferrari.com/en-EN/formula1/partners) as of February 7, 2025:
-- [HP](reports\hp_2024.md) (Title Partner)
+- [HP](reports/hp_2024.md) (Title Partner)
 - Shell (Premium Partner)
 - UniCredit (Premium Partner)
 - IBM (Premium Partner)
